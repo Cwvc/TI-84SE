@@ -1,0 +1,15 @@
+:ClrHome
+:Disp "FIND SLOPE"
+:Disp "----------------"
+:A=0:B=0
+:C=0:D=0
+:Input "X1: ",A
+:Input "X2: ",B
+:Input "Y1: ",C
+:Input "Y2: ",D
+:ClrHome
+:Disp D-C
+:Disp "Slope:         -"
+:Disp B-A
+:Disp "
+:
