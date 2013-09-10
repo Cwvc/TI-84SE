@@ -1,0 +1,17 @@
+:ClrHome
+:Disp "FIND Y-INTERCEPT"
+:Disp "----------------"
+:Input "Y: ",A
+:Input "M: ",B
+:Input "X: ",C
+:If ((B)(C))≥0:Goto Z
+:If ((B)(C))<0:Goto Y
+:Lbl Z
+:Disp ((A)-(((B)(C))))►Frac
+:Goto V
+:Lbl Y
+:Disp ((A)-(((B)(C))))►Frac
+:Lbl V
+:Output(7,1,"Y-INTERCEPT:"
+:Pause
+:ClrHome
