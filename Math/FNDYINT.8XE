@@ -12,6 +12,6 @@
 :Lbl Y
 :Disp ((A)-(((B)(C))))►Frac
 :Lbl V
-:Output(7,1,"Y-INTERCEPT:"
+:Output(7,1,"Y-INT:"
 :Pause
 :ClrHome
